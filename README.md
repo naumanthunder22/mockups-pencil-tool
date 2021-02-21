@@ -31,10 +31,10 @@
 
 | ![Sample 1](../main/Web%20Mockup%20Samples/web_mockup_screenshot.png?raw=true) | 
 |:--:| 
-| *Manage Monitoring Mockup Design* |
+| *Web Mockup Design* |
 
 | ![Sample 1](../main/Web%20Mockup%20Samples/web_mockup_screenshot1.png?raw=true) | 
 |:--:| 
-| *Manage Monitoring Mockup Design* |
+| *Web Mockup Design* |
 
 
